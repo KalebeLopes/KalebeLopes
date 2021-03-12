@@ -24,14 +24,10 @@ Welcome to my page!
   <img src = "https://github-readme-stats.vercel.app/api?username=KalebeLopes&show_icons=true&theme=bear&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeLopes&hide=css,java,html&theme=bear">
 </p>
- 
- <!--START_SECTION:waka-->
+   
  📊 **This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=KalebeLopes&hide_title=true&hide_border=true&langs_count=5)
-
-📅 **I'm Most Productive on ** 
-
-**I Mostly Code in ** 
-
+ 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
