@@ -26,37 +26,5 @@ Welcome to my page!
    
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-303-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 236 Contributions in the Year 2021
- > 
-> 📦 56.1 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
-TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/KalebeLopes/KalebeLopes/main/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
