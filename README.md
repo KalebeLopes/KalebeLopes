@@ -17,7 +17,6 @@ Welcome to my page!
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
@@ -26,33 +25,6 @@ Welcome to my page!
 </p>
    
 
-**🐱 My Github Data** 
-
-> 🏆 235 Contributions in the Year 2021
- > 
-> 📦 56.1 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 37 Public Repositories 
- > 
-> 🔑 7 Private Repositories  
- > 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
-TypeScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53% 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/KalebeLopes/KalebeLopes/main/charts/bar_graph.png) 
-
+<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
