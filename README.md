@@ -25,14 +25,6 @@ Welcome to my page!
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KalebeLopes&hide=css,java,html&theme=bear">
 </p>
    
- 📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=KalebeLopes&hide_title=true&hide_border=true&langs_count=5)
- 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
