@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: KalebeLopes/KalebeLopes@master
+      - uses: KalebeLopes/KalebeLopes@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
