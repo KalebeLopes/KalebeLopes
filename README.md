@@ -26,11 +26,11 @@ Welcome to my page!
    
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-303-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-424-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 236 Contributions in the Year 2021
+> 🏆 248 Contributions in the Year 2021
  > 
 > 📦 56.1 kB Used in Github's Storage 
  > 
