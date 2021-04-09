@@ -38,7 +38,7 @@ Welcome to my page!
 
 **🐱 My Github Data** 
 
-> 🏆 305 Contributions in the Year 2021
+> 🏆 310 Contributions in the Year 2021
  > 
 > 📦 56.6 kB Used in Github's Storage 
  > 
