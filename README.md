@@ -34,17 +34,17 @@ Welcome to my page!
    
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 314 Contributions in the Year 2021
+> 🏆 316 Contributions in the Year 2021
  > 
 > 📦 56.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 27 Public Repositories 
  > 
 > 🔑 8 Private Repositories  
  > 
