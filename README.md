@@ -38,7 +38,7 @@ Welcome to my page!
 
 **🐱 My Github Data** 
 
-> 🏆 376 Contributions in the Year 2021
+> 🏆 387 Contributions in the Year 2021
  > 
 > 📦 49.8 kB Used in Github's Storage 
  > 
@@ -61,5 +61,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2021
+ Last Updated on 10/06/2021
 <!--END_SECTION:waka-->
