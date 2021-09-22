@@ -34,19 +34,19 @@ Welcome to my page!
    
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 421 Contributions in the Year 2021
  > 
-> 📦 51.0 kB Used in Github's Storage 
+> 📦 51.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 32 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I Mostly Code in TypeScript** 
 
@@ -61,5 +61,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
