@@ -34,32 +34,32 @@ Welcome to my page!
    
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 425 Contributions in the Year 2021
+> 🏆 428 Contributions in the Year 2021
  > 
-> 📦 51.0 kB Used in GitHub's Storage 
+> 📦 51.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
  > 
-> 🔑 11 Private Repositories  
+> 🔑 12 Private Repositories  
  > 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ██████████░░░░░░░░░░░░░░░   41.67% 
-JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   44.0% 
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.0% 
+Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
 
 
 
- Last Updated on 08/10/2021
+ Last Updated on 09/10/2021
 <!--END_SECTION:waka-->
