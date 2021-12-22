@@ -38,7 +38,7 @@ Welcome to my page!
 
 **🐱 My GitHub Data** 
 
-> 🏆 434 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 51.3 kB Used in GitHub's Storage 
  > 
@@ -61,5 +61,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2021
+ Last Updated on 22/12/2021
 <!--END_SECTION:waka-->
