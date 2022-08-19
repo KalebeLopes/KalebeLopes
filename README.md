@@ -38,8 +38,6 @@ Welcome to my page!
 
 **🐱 My GitHub Data** 
 
-> 🏆 27 Contributions in the Year 2022
- > 
 > 📦 51.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -61,5 +59,5 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2022 18:44:06 UTC
+ Last Updated on 19/08/2022 18:48:20 UTC
 <!--END_SECTION:waka-->
