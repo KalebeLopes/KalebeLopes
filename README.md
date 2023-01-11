@@ -51,15 +51,15 @@ Welcome to my page!
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            █████████░░░░░░░░░░░░░░░░   37.93% 
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   24.14% 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
+TypeScript               12 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
+JavaScript               7 repos             █████░░░░░░░░░░░░░░░░░░░░   23.33% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
 
 ```
 
 
 
- Last Updated on 10/01/2023 18:38:28 UTC
+ Last Updated on 11/01/2023 18:41:10 UTC
 <!--END_SECTION:waka-->
